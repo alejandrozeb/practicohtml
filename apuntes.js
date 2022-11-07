@@ -1,3 +1,7 @@
 /* 
 aqui apuntes
+grid
+
+
+flex
 */
